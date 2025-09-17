@@ -17,13 +17,13 @@ A comprehensive web-based platform for analyzing UAV flight trajectory data, pro
 - Speed calculations
 - Lantency computation
 
-## Architecture
-
 ### User Page
 - Developed the user management pages including:
   - Registration (`/register`) and Login (`/login`)
   - Profile management and account settings
   - User-specific flight data access and privacy controls
+    
+## Architecture
     
 ### Backend
 - **Framework**: Node.js with Express.js
