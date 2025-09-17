@@ -19,6 +19,12 @@ A comprehensive web-based platform for analyzing UAV flight trajectory data, pro
 
 ## Architecture
 
+### User Page
+- Developed the user management pages including:
+  - Registration (`/register`) and Login (`/login`)
+  - Profile management and account settings
+  - User-specific flight data access and privacy controls
+    
 ### Backend
 - **Framework**: Node.js with Express.js
 - **Database**: MongoDB with Mongoose ODM
@@ -49,6 +55,8 @@ A comprehensive web-based platform for analyzing UAV flight trajectory data, pro
 │   ├── visualization.html    # 3D visualization
 │   ├── analysis.html         # Analysis reports
 │   └── flights.html          # Flight history management
+├── views/
+│   ├── user.html             # User registration, login, and profile management
 └── public/
     └── js/
         └── flights.js        # Frontend flight management
