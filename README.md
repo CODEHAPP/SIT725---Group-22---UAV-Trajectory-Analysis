@@ -239,3 +239,7 @@ Please don't forgot to delete your fork/branch when we approved your PR.
 ---
 
 **Built with ❤️ for UAV research and analysis**
+## Team Members
+- Disen Jia (S223314816)  
+- Lynn Yego Chebonya (S225241885)  
+- XueYing Feng (S224270349)
